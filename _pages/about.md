@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Right now I'm not really sure what I'm doing here, but I want (and I'm going to) blog about stuff that interests me, including (but not limited to):
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+- Artificial Intelligence and Machine Learning
+- Neuroscience
+- Cognitive Science / Psychology
+- Biology
+- Fantasy & Science-fiction
+- Math, history, languages, and whatever else sparks fascination in me
